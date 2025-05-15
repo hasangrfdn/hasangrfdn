@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hasan Gürfidan</h1>
 
-<p align="center">Computer Engineering Student | Web & Software Developer | FinTech Enthusiast</p>
+<p align="center">Computer Engineering Student</p>
 
 ---
 
