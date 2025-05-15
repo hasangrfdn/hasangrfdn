@@ -12,7 +12,7 @@ I’m passionate about software development, problem-solving, and continuously i
 I enjoy working on Dev, databases, algorithms, and fintech solutions. I have experience in languages like Python, C, Java, and PHP. I'm also interested in frontend development using HTML/CSS.  
 I value collaboration, clear communication, and taking initiative in projects.
 
-🚀 My goal is to become a forward-thinking engineer who not only follows technology but contributes to it.
+🚀 My vision is to contribute meaningfully to the evolution of technology as a creator, not just a follower
 
 ---
 
