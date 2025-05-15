@@ -9,7 +9,7 @@
 I'm Hasan Gürfidan, a 3rd-year Computer Engineering student at Bursa Technical University.  
 I’m passionate about software development, problem-solving, and continuously improving myself through hands-on projects.
 
-I enjoy working on web technologies, databases, algorithms, and fintech solutions. I have experience in languages like Python, C, Java, and PHP. I'm also interested in frontend development using HTML/CSS.  
+I enjoy working on Dev, databases, algorithms, and fintech solutions. I have experience in languages like Python, C, Java, and PHP. I'm also interested in frontend development using HTML/CSS.  
 I value collaboration, clear communication, and taking initiative in projects.
 
 🚀 My goal is to become a forward-thinking engineer who not only follows technology but contributes to it.
