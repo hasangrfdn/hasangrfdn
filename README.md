@@ -1,21 +1,22 @@
 <h1 align="center">Hi 👋, I'm Hasan Gürfidan</h1>
 
-<p align="center">Bilgisayar Mühendisliği öğrencisi | Web & Yazılım Geliştirici | Finansal Teknoloji Meraklısı</p>
+<p align="center">Computer Engineering Student | Web & Software Developer | FinTech Enthusiast</p>
 
 ---
 
-## 🧠 Hakkımda
+## 🧠 About Me
 
-Merhaba! Ben Hasan Gürfidan, Bursa Teknik Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.  
-Yazılım geliştirme ve teknoloji alanlarına yoğun ilgi duyuyorum. Web geliştirme, veritabanı sistemleri, algoritmalar ve finansal teknolojiler üzerine çalışıyor, bu alanlarda projeler geliştiriyorum.
+I'm Hasan Gürfidan, a 3rd-year Computer Engineering student at Bursa Technical University.  
+I’m passionate about software development, problem-solving, and continuously improving myself through hands-on projects.
 
-Problem çözme, ekip içi iletişim ve proje yönetimi konularında aktif rol almayı seviyorum. Python, C, Java gibi programlama dilleriyle pratik yaparak yazılım becerilerimi geliştiriyor; HTML/CSS ile frontend alanında da üretmeye çalışıyorum.
+I enjoy working on web technologies, databases, algorithms, and fintech solutions. I have experience in languages like Python, C, Java, and PHP. I'm also interested in frontend development using HTML/CSS.  
+I value collaboration, clear communication, and taking initiative in projects.
 
-🚀 Hedefim; teknolojiyi takip eden değil, şekillendiren bir mühendis olmak.
+🚀 My goal is to become a forward-thinking engineer who not only follows technology but contributes to it.
 
 ---
 
-## 💻 Kullandığım Teknolojiler
+## 💻 Technologies I Use
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -29,15 +30,15 @@ Problem çözme, ekip içi iletişim ve proje yönetimi konularında aktif rol a
 
 ---
 
-## 📌 Öne Çıkan Projeler
+## 📌 Featured Projects
 
-- 💡 [Hamming Code Simulator](https://github.com/hasangrfdn/hamming-code-simulator): Hata tespit/düzeltme simülasyonu
-- 🌐 [Kişisel Web Sayfam](https://hasangrfdn.github.io/): GitHub Pages ile oluşturulmuş portföy
-- 🧪 [Hoby Club Sitesi](https://github.com/hasangrfdn/hoby_club): PHP tabanlı bir kulüp sitesi
+- 💡 [Hamming Code Simulator](https://github.com/hasangrfdn/hamming-code-simulator): Error detection and correction simulation
+- 🌐 [My Personal Website](https://hasangrfdn.github.io/): Portfolio site hosted on GitHub Pages
+- 🧪 [Hoby Club Website](https://github.com/hasangrfdn/hoby_club): A PHP-based community site
 
 ---
 
-## 🌐 Sosyal Medya ve İletişim
+## 🌐 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/hasangrfdn">
@@ -53,8 +54,8 @@ Problem çözme, ekip içi iletişim ve proje yönetimi konularında aktif rol a
 
 ---
 
-## ✨ Hakkımda Daha Fazla
+## ✨ More About Me
 
-- 📍 BTÜ Bilgisayar Mühendisliği (2021 – 2026)  
-- 🧠 İlgi Alanlarım: Yapay Zeka, Finansal Teknolojiler, Web Geliştirme  
-- 🏀 Hobilerim: Basketbol, Yüzme, Finans takip  
+- 🎓 Studying Computer Engineering at Bursa Technical University (2021 – 2026)  
+- 💡 Interests: AI, Financial Technologies, Web Development  
+- 🏀 Hobbies: Basketball, Swimming, Financial Markets
