@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hasan Gürfidan</h1>
 
-<p align="center">Computer Engineering Student</p>
+<p align="center">AI Engineering</p>
 
 ---
 
