@@ -1,79 +1,77 @@
-<h1 align="center">Hasan Gürfidan</h1>
-<p align="center"><strong>AI Engineer</strong></p>
-<p align="center">RAG · Agentic Workflows · Document Intelligence</p>
+<h1 align="center">Hi, I'm Hasan 👋</h1>
+
+<p align="center"><strong>I build AI tools and apps that solve everyday problems.</strong></p>
+<p align="center">RAG · AI agents · Document intelligence · Mobile apps</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hasangrfdn">LinkedIn</a> ·
-  <a href="https://www.upwork.com/freelancers/hasangurfidan">Upwork</a> ·
-  <a href="mailto:hasangrfdn@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/hasangrfdn"><img src="assets/badges/linkedin.svg" alt="Connect on LinkedIn" height="38" /></a>
+  &nbsp;
+  <a href="https://www.upwork.com/freelancers/hasangurfidan"><img src="assets/badges/upwork.svg" alt="Find me on Upwork" height="38" /></a>
+  &nbsp;
+  <a href="mailto:hasangrfdn@gmail.com"><img src="assets/badges/email.svg" alt="Send me an email" height="38" /></a>
 </p>
 
----
+## 📱 Apps I've shipped
 
-## About
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I build AI systems that help people find, process, and use information, from RAG assistants with source attribution to document processing workflows with human review.
+<h3>💸 Balanso</h3>
+<p><strong>Personal finance, in one place.</strong></p>
+<p>Track budgets, expenses, and recurring payments through financial dashboards and subscription tracking.</p>
+<p><sub>React · Flutter · REST APIs</sub></p>
+<a href="https://apps.apple.com/tr/app/balanso/id6768995694"><img src="assets/badges/app-store.svg" alt="Get Balanso on the App Store" height="38" /></a>
 
-Currently, I work as an **AI Engineer at Ekofay Mühendislik**, developing document ingestion, multilingual OCR, and asynchronous processing systems for forestry projects. Previously, I worked on RAG pipelines and agentic workflows at **Derin Teknoloji**. My work also includes web platforms and published mobile apps.
+</td>
+<td width="50%" valign="top">
 
-## Experience
+<h3>🌿 Pobu</h3>
+<p><strong>Make sense of your daily patterns.</strong></p>
+<p>Log digestive symptoms, review patterns, and explore AI-powered summaries of your entries.</p>
+<p><sub>React · Capacitor · Firebase · Gemini</sub></p>
+<a href="https://apps.apple.com/tr/app/pobu/id6760907169"><img src="assets/badges/app-store.svg" alt="Get Pobu on the App Store" height="38" /></a>
 
-### AI Engineer · Ekofay Mühendislik
+</td>
+</tr>
+</table>
 
-*Jul. 2026 - Present*
+## 🧠 AI & engineering projects
 
-- Developed a document ingestion system that routes forestry project documents through **human-in-the-loop review workflows**.
-- Implemented **multilingual OCR** with Python and FastAPI to extract searchable text from scanned PDFs and images.
-- Implemented a microservices architecture with NestJS, BullMQ, and Docker for asynchronous document processing and tenant isolation.
+### 🎓 University Information Assistant
 
-### AI Engineer · Derin Teknoloji
+A RAG assistant that answers questions about university regulations, academic calendars, and student services **with source attribution**. Supported by **TÜBİTAK 2209-A** research funding.
 
-*Sep. 2025 - Jul. 2026*
+### 🎙️ [Ask_Answer](https://github.com/hasangrfdn/Ask_Answer)
 
-Completed a three-month internship, then continued as an AI Engineer.
+A voice-based AI Q&A app with conversation modes, live web search, and Turkish/English support. Combines speech recognition, LLM responses, and voice output.
 
-- Developed **RAG pipelines** for company documents and websites in Generative Flow, a multi-tenant AI platform used by **20 organizations**.
-- Built **agentic workflows** with conversation memory and tool calling using the Gemini API.
-- Evaluated LLM responses for accuracy, grounding, latency, and inference cost.
+**Built with:** FastAPI · Groq · Whisper · ElevenLabs
 
-### Full-Stack Developer · Freelance
+### 📡 [IoT Simulation](https://github.com/hasangrfdn/IoT-Simulation)
 
-- Developed web platforms for **Bilgem Yayınevi** and **ALTE**, enabling teams to manage content through admin dashboards and responsive interfaces.
+An interactive dashboard for **simulated sensor data**: temperature, humidity, and light readings flow through MQTT into live charts and stored analytics.
 
-## Selected Projects
+**Built with:** Python · MQTT · SQLite · Streamlit · Plotly
 
-### University Information Assistant
+## ⚡ What I like building
 
-**TÜBİTAK 2209-A funded research · RAG · Source attribution**
+- **AI that works with your data** — RAG, conversational agents, memory, and tool calling.
+- **Documents you can actually use** — multilingual OCR, searchable text, and human review workflows.
+- **Products people can interact with** — mobile apps, responsive interfaces, and asynchronous APIs.
 
-Designed a RAG assistant to answer student questions about university regulations, academic calendars, and student services with source attribution. Secured TÜBİTAK 2209-A research funding as the **sole project lead**.
+## 🛠️ Tools I work with
 
-### [Balanso](https://apps.apple.com/tr/app/balanso/id6768995694) · Personal Finance App
+<p align="center">
+  <img src="assets/tech/python-original.svg" alt="Python" title="Python" width="44" height="44" />&nbsp;&nbsp;
+  <img src="assets/tech/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="44" height="44" />&nbsp;&nbsp;
+  <img src="assets/tech/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="44" height="44" />&nbsp;&nbsp;
+  <img src="assets/tech/react-original.svg" alt="React" title="React" width="44" height="44" />&nbsp;&nbsp;
+  <img src="assets/tech/flutter-original.svg" alt="Flutter" title="Flutter" width="44" height="44" />&nbsp;&nbsp;
+  <img src="assets/tech/firebase-original.svg" alt="Firebase" title="Firebase" width="44" height="44" />&nbsp;&nbsp;
+  <img src="assets/tech/docker-original.svg" alt="Docker" title="Docker" width="48" height="44" />&nbsp;&nbsp;
+  <img src="assets/tech/amazonwebservices-original-wordmark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="58" height="44" />&nbsp;&nbsp;
+  <img src="assets/tech/googlecloud-original.svg" alt="Google Cloud" title="Google Cloud" width="44" height="44" />
+</p>
 
-**React · Flutter · REST APIs**
-
-Built and published a personal finance app for budgets, expenses, and recurring payments, reaching **100+ downloads**. Implemented a React interface, Flutter app shell, and REST APIs for financial dashboards and subscription tracking.
-
-### [Pobu](https://apps.apple.com/tr/app/pobu/id6760907169) · Digestive Health Tracker
-
-**React · Capacitor · Firebase · Gemini**
-
-Developed and released a digestive health tracker for symptom logging and pattern review, reaching **100+ downloads**. Integrated **Gemini-powered summaries** through Firebase Cloud Functions.
-
-## Technical Skills
-
-| Area | Technologies |
-| --- | --- |
-| AI & retrieval | PyTorch, CUDA, MCP, Milvus, RAG, Gemini API |
-| Backend & data | Python, SQL, FastAPI, NestJS, BullMQ, REST APIs |
-| Web & mobile | React, Flutter, Capacitor, Firebase |
-| AWS | Bedrock, Trainium, EC2, Lambda |
-| Google Cloud | Vertex AI, ADK, Gemini Enterprise, Cloud Run, BigQuery |
-| Infrastructure & tools | Docker, Modal, Weights & Biases (W&B) |
-
-## Education
-
-**Bursa Technical University**<br>
-B.Sc. in Computer Engineering · 2021 - 2026
-
-**Languages:** Turkish (native) · English (B2) · German (A1)
+<p align="center"><sub>Python · PyTorch · FastAPI · React · Flutter · Firebase · Docker · AWS · Google Cloud</sub></p>
